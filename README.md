@@ -1,12 +1,18 @@
 # microbit-fun
 
-Simple program for one or two version 2 micobits.
+Simple programs for one or two version 2 micobits.
 
 
 *Door Bell*
 
-this requires 2 microbits one to be the button outside on the front door, the second is some where inside where it can be heard.
+This requires 2 microbits one to be the button outside on the front door, the second is some where inside where it can be heard.
 
 There are 2 programs doorbell_a.py the button and doorbell_b.py the bell.
 
+*Intercom*
 
+This requires 2 microbits both are running the program intercom.py. Press a button on one microbit the other plays a note high notes for button b, low ones for button a.  Try sending morse code messages using button a for a dash and button b for dot.
+
+*2 Way Talker*
+
+This requires 2 microbits and you have to be running a REPL session to type messsages in or to read them. Press button a to break out of listen mode and type your message, press enter to send it and resume listening.
