@@ -1,3 +1,8 @@
+#
+# Author  : Phil Hall, October 2022
+# Licence : MIT
+#
+
 from microbit import *
 import music
 import radio
