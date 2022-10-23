@@ -19,7 +19,7 @@ This requires 2 microbits both are running the program `intercom.p`y. Press a bu
 
 *Truth Machine*
 
-Use `truth.py` to determine if you have a liar in your house.  Ask them a question then test their answer with the truth machine, get the respondant to press either button a or button b and a tick for truth or a cross for lying will be displayed.
+Use `truth.py` to determine if you have a liar in your circle.  Ask a friend a question then test their answer with the truth machine, get them to press either button a or button b.  A tick for truth or a cross for lies will be displayed.
 
 *Jokers Truth Machine*
 
