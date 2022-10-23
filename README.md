@@ -11,7 +11,7 @@ There are 2 programs doorbell_a.py the button and doorbell_b.py the bell.
 
 *Intercom*
 
-This requires 2 microbits both are running the program `intercom.p`y. Press a button on one microbit the other plays a note high notes for button b, low ones for button a.  Try sending morse code messages using button a for dash and button b for dot.
+This requires 2 microbits both are running the program `intercom.py`. Press a button on one microbit the other plays a note high notes for button b, low ones for button a.  Try sending morse code messages using button a for dash and button b for dot.
 
 *2 Way Talker*
 
@@ -23,4 +23,4 @@ Use `truth.py` to determine if you have a liar in your circle.  Ask a friend a q
 
 *Jokers Truth Machine*
 
-`joker.py` like `truth.py` is used for interrogation. The trick here is ask a friend a question and get their response.  Now ask tem "Which button do you inntend to press to reveal to determine truth or lies?".  You now say something that makes the outcome funny or embarassing for your friend and get them to press the button.  The trick here is that, button a always displays a tick and button b a cross.
+`joker.py` like `truth.py` is used for interrogation. The trick here is ask a friend a question and get their response.  Now ask tem "Which button do you intend to press to reveal to determine truth or lies?".  You now say something that makes the outcome funny or embarassing for your friend and get them to press the button.  The trick here is that, button a always displays a tick and button b a cross.
