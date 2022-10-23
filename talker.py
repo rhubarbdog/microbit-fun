@@ -15,8 +15,10 @@ while True:
     if message != None:
         display.show(Image.SQUARE)
         print(message)
-        speach.say(message)
+        speech.say(message)
 
+    display.show(' ')
+    
     if button_a.is_pressed():
         message = input('Message : ')
         if message != '':

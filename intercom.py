@@ -14,9 +14,7 @@ while True:
     note = radio.receive()
     if note != None:
         display.show(Image.SQUARE)
-        play = []
-        play.append(note)
-        music.play(play)
+        music.play([note])
 
     display.show(' ')
 
